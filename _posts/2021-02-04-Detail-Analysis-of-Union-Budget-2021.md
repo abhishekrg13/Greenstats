@@ -3,7 +3,7 @@ layout: post
 title:  "Detailed Analysis Of Union Budget 2021"
 author: abhishek
 categories: [ budget2021,current affairs ]
-image: assets/images/1.jpg
+image: https://i0.wp.com/sightsinplus.nyc3.digitaloceanspaces.com/sightsinplus/wp-content/uploads/2021/02/03111823/nirmala-sitharaman-budget.jpg?fit=750%2C500&ssl=1
 tags: [featured]
 ---
 
