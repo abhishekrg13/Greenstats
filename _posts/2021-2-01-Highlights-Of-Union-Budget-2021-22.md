@@ -3,7 +3,7 @@ layout: post
 title:  "Union Budget of India 2021-22"
 author: abhishek
 categories: [ current affairs,finance ]
-image: https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/02/01/954297-budget2020.jpg
+image: https://affairscloud.com/assets/uploads/2020/02/Union-Budget-2020-2021.jpg
 tags: [featured]
 ---
 
