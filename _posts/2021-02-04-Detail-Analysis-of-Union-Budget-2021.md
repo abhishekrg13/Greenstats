@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Detailed Analysis Of Union BUDGET 2021"
+title:  "Detailed Analysis Of Union Budget 2021"
 author: abhishek
 categories: [ budget2021,current affairs ]
 image: assets/images/1.jpg
@@ -124,7 +124,9 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
 **START-UP**
 
  •  Government allocates Rs 830 CR for fund of fund which has been set up with a corpus of Rs 20.8 cr for startups which are almost double the revised estimate of about Rs 430 CR FFS which have been set up with a corpus of 10000 CR is managed by small industrial Development Bank of India (SIDBI).
+
  •  As a part of the incentives for startups, finance minister Nirmala Sitharaman announced the extension of tax holiday for startups by more than one year till march 31 2022. Capital gains exemption for startup investment has also been extended by one more year till March 2022. GOI also has started a seed fund under bb startup India.
+
  •  GOI will allow the setting up of one person companies (OPC) to promote startups.OPCs can be converted into any other type of company at any time in the future. NASSCOM said it is a truly welcome step for the startups.
 
 
@@ -148,5 +150,5 @@ And for FY22 budget estimate is 5.34Lakh Cr which is up by 34.5%
  4. DFI set up for infra & Real estate 
 
  5. Investment in seaweed farming
- 
+
  6. Vehicle scrappage policy. 
