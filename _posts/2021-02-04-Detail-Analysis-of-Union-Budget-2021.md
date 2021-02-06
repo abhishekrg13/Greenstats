@@ -106,6 +106,8 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
 ---
 
 ![textile](https://text1magpull-10516.kxcdn.com/wp-content/uploads/2019/08/Fabric.jpg)
+
+
 **TEXTILE**
 
 •   Government unveiled a scheme to set up Mega Investment textile parks (MITRA) to enable the creation of “global champions in exports. 
@@ -132,6 +134,8 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
 
 ---
 ![agriculture](https://images.pexels.com/photos/207247/pexels-photo-207247.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+
+
 **AGRICULTURE**
 
  •  GOI has proposed an increase in agriculture credit target to Rs 16.5lakh CR. MSP regime has undergone a change to assure price that is at least 1.5 times the cost of production. The total amount paid to paddy farmers has surged to Rs 1.72lakh crore in 2020-21.
@@ -165,7 +169,7 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
 ![macroeconomics](https://bsmedia.business-standard.com/_media/bs/img/about-page/thumb/620_620/1605522848.jpg)
 
 
- #### KEY MACRO ECONOMICS METRICS
+#### KEY MACRO ECONOMICS METRICS
 
 1.  Capital expenditure in FY21 has seen CAPEX of 4.39 lakh CR 
 And for FY22 budget estimate is 5.34Lakh Cr which is up by 34.5%
