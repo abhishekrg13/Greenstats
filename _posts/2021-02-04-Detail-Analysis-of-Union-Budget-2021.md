@@ -39,6 +39,9 @@ Starting with the announcement made before 1st Feb 2021 GOI given out 3 packages
 
 #### BUDGET 2021 – 22
 
+
+![health and wellbeing](https://www.zen.co.uk/resources/images/default-source/image-library/blog/blog-feature-images/health-and-wellbeing-blog.jpg?sfvrsn=8e03af5c_0)
+
 **Health and well being**
 
  •  Finance Minister Nirmala Sitharaman announced that the urban Swachh Bharat mission 2.0 will be implemented with a total financial allocation of Rs1.4lakh CR over 5 years from 2021-2026.the 
@@ -52,6 +55,11 @@ Starting with the announcement made before 1st Feb 2021 GOI given out 3 packages
  •  Voluntary vehicle scrapping policy based on fitness test:                   20 years for personal vehicles and 15 years for commercial vehicle
 
 This will help to encourage fuel-efficient environment-friendly vehicles to reduce air pollution and oil imports bills.
+
+---
+
+![infrastructure](https://gumlet.assettype.com/freepressjournal%2F2021-02%2F817bef86-3a07-423e-926c-df92760df1de%2Fshawn_ang_vdBE638sszE_unsplash.jpg?w=1200)
+
 
 **INFRASTRUCTURE SECTOR**
 
@@ -71,6 +79,9 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
 
  •  GOI announced to facilitate to set up world-class fintech hub in GIFT City in Gujrat to encourage and develop innovative financial technology services and products. The city is spread 886 acres of land and located on the bank of the Sabarmati river connecting Ahmedabad and Gandhinagar.
 
+---
+
+![Railways](https://images.cnbctv18.com/wp-content/uploads/2019/09/indian-railways-768x512.jpg)
 
 **RAILWAYS**
 
@@ -80,6 +91,10 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
 
  •  100% electrification of broad gauge routes will be provided.
 
+---
+
+![manufacturing](https://blog.storymirror.com/public/uploads/featured-images/original/492aa40d5c227102b9725fe9e52688cd.jpg)
+
 **MANUFACTURING**
 
  •  Government has taken several steps to support the micro, small and medium enterprise (MSME) sector. GOI has announced an allocation of 15700CR for this sector for 2021-22 more than double of 2020-2021 budget estimates. GOI proposed to reduce margin money requirement from 25% to 15% for stand up India.
@@ -88,12 +103,18 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
 
  •  Few exemptions on the parts of chargers and sub-parts of mobiles have been withdrawn and further some parts of mobiles will move from nil rate to a moderate 2.5%
 
+---
+
+![textile](https://text1magpull-10516.kxcdn.com/wp-content/uploads/2019/08/Fabric.jpg)
 **TEXTILE**
 
-•   Government unveiled a scheme to set up Mega Investment textile parks (MITRA) to enable the creation of “global champions in exports “.
+•   Government unveiled a scheme to set up Mega Investment textile parks (MITRA) to enable the creation of “global champions in exports. 
 
  7 mega textile parks will be launched in three years, the mega textile parks will have integrated facilities and quick turnaround time for minimizing transportation losses.
 
+---
+
+![insuranace](https://cipsonline.edu.jm/wp-content/uploads/2019/10/cips-introduction_Insurance_400x200.jpg)
 
 **INSURANCE**
 
@@ -101,12 +122,16 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
 
  •  FDI limit to be increased from 49% to 79%with safe regards it means there would be foreign investment coming in the insurance sector which can increase the competition and also there will be a huge boost in this sector but the government will have its regulations tight so that there will be no malpractice.
  
+---
+![banking](https://images.pexels.com/photos/351264/pexels-photo-351264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 **BANKING**  
  •  FM had announced Rs 20000 CR for the recapitalization of public sector banks also setting up a new asset reconstruction and asset management company for the stressed asset to take over bad loans. These measures are expected to hasten the process of cleaning up the bank's book
 
  •  Two of the public banks will be privatized as the government is selling its full stake.
 
+---
+![agriculture](https://images.pexels.com/photos/207247/pexels-photo-207247.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 **AGRICULTURE**
 
  •  GOI has proposed an increase in agriculture credit target to Rs 16.5lakh CR. MSP regime has undergone a change to assure price that is at least 1.5 times the cost of production. The total amount paid to paddy farmers has surged to Rs 1.72lakh crore in 2020-21.
@@ -115,11 +140,17 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
 
  •  Launch of deep-ocean research  with the outlay of Rs 4000 Cr over next 4 years to investigate seabed for resources
 
+---
+
+![divestment](https://economictimes.indiatimes.com/thumb/msid-75035121,width-1200,height-900,resizemode-4,imgsize-69044/divestment-getty.jpg?from=mdr)
+
 
 **DIVESTMENT PLANS** 
 
  •  GOI has set the divestment target for 2022 at Rs 1.75lakh CR of which nearly 10% was met GOI added that the government stake sale in BPCL, Air India, CONCOR among others will be completed this fiscal.
 
+---
+![startups](https://technext.ng/wp-content/uploads/2020/03/start-up.jpg)
 
 **START-UP**
 
@@ -128,6 +159,10 @@ This will help to encourage fuel-efficient environment-friendly vehicles to redu
  •  As a part of the incentives for startups, finance minister Nirmala Sitharaman announced the extension of tax holiday for startups by more than one year till march 31 2022. Capital gains exemption for startup investment has also been extended by one more year till March 2022. GOI also has started a seed fund under bb startup India.
 
  •  GOI will allow the setting up of one person companies (OPC) to promote startups.OPCs can be converted into any other type of company at any time in the future. NASSCOM said it is a truly welcome step for the startups.
+
+---
+
+![macroeconomics](https://bsmedia.business-standard.com/_media/bs/img/about-page/thumb/620_620/1605522848.jpg)
 
 
  #### KEY MACRO ECONOMICS METRICS
